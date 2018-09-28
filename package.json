@@ -1,0 +1,16 @@
+{
+  "name": "antoine_posnic_il",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "git+https://github.com/request/request-promise.git"
+  }
+}
